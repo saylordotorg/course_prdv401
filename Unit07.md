@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV401: Introduction to Human Resources Management"
+course_description: "The purpose of Introduction to Human Resources Management is to provide a general overview of the concepts and applications of the many parts of Human Resources (HR). This course is for the entry level HR Generalist who wants to explore how the interdependence of the major topics in HR are created and implemented."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: HR Law** <span id="7"></span> 
 *Unit 2 discussed the Life Cycle of the Employee. This life cycle could
 not function adequately without laws to govern the behavior of both the
