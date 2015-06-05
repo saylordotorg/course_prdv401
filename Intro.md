@@ -216,4 +216,16 @@ from each unit.  Good luck! 
     License](http://creativecommons.org/licenses/by-nc-sa/3.0/) without
     attribution as requested by the work’s original creator or licensee.
 
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/prdv401/Unit01/)
+- [Unit 2](https://legacy.saylor.org/prdv401/Unit02/)
+- [Unit 3](https://legacy.saylor.org/prdv401/Unit03/)
+- [Unit 4](https://legacy.saylor.org/prdv401/Unit04/)
+- [Unit 5](https://legacy.saylor.org/prdv401/Unit05/)
+- [Unit 6](https://legacy.saylor.org/prdv401/Unit06/)
+- [Unit 7](https://legacy.saylor.org/prdv401/Unit07/)
+- [Unit 8](https://legacy.saylor.org/prdv401/Unit08/)
+- [Unit 9](https://legacy.saylor.org/prdv401/Unit09/)
+- [Unit 10](https://legacy.saylor.org/prdv401/Unit10/)
+- [Unit 11](https://legacy.saylor.org/prdv401/Unit11/)
