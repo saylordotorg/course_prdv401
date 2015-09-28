@@ -246,3 +246,4 @@ from each unit.  Good luck! 
 - [Unit 9](https://legacy.saylor.org/prdv401/Unit09/)
 - [Unit 10](https://legacy.saylor.org/prdv401/Unit10/)
 - [Unit 11](https://legacy.saylor.org/prdv401/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV401/PRDV401-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV401/PRDV401-FinalExam-Answers.html)
