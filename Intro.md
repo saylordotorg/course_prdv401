@@ -118,9 +118,9 @@ free, online materials. However, the course makes primary use of the
 following materials:  
 
 -   [*Human Resource
-    Management*](http://www.saylor.org/site/textbooks/Human%20Resource%20Management.pdf)
+    Management*](https://resources.saylor.org/archived/textbooks/Human%20Resource%20Management.pdf)
 -   [*The Business Ethics
-    Workshop*](http://www.saylor.org/site/textbooks/The%20Business%20Ethics%20Workshop.pdf)
+    Workshop*](https://resources.saylor.org/archived/textbooks/The%20Business%20Ethics%20Workshop.pdf)
 -   New Jersey Institute of Technology’s OpenCourseware: Dr. Naomi
     Rotter’s [Human Resource Management
     Lectures](http://ocw.njit.edu/som/hrm/hrm-303/index.php)
@@ -197,7 +197,7 @@ from each unit.  Good luck! 
     box.  
       
      Reading: *[Human Resource
-    Management](http://www.saylor.org/site/textbooks/Human%20Resource%20Management.pdf)*
+    Management](https://resources.saylor.org/archived/textbooks/Human%20Resource%20Management.pdf)*
     (PDF)  
       
      Terms of Use: This text was adapted by The Saylor Foundation under
@@ -216,7 +216,7 @@ from each unit.  Good luck! 
     box.  
       
      Reading: *[The Business Ethics
-    Workshop](http://www.saylor.org/site/textbooks/The%20Business%20Ethics%20Workshop.pdf)*
+    Workshop](https://resources.saylor.org/archived/textbooks/The%20Business%20Ethics%20Workshop.pdf)*
     (PDF)  
       
      Terms of Use: This text was adapted by The Saylor Foundation under

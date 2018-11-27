@@ -34,7 +34,7 @@ id="4.1"></span> 
 -   **Reading: *Human Resource Management*: “Chapter 8: Training and
     Development”**
     Link: *Human Resource Management*: [“Chapter 8: Training and
-    Development”](http://www.saylor.org/site/textbooks/Human%20Resource%20Management.pdf) (PDF)  
+    Development”](https://resources.saylor.org/archived/textbooks/Human%20Resource%20Management.pdf) (PDF)  
         
      Instructions: Read the chapter introduction as well as Sections 8.1
     through 8.5.  Chapter 8 will cover development, growth enablement,
@@ -88,7 +88,7 @@ accomplish actualization.*
 -   **Reading: *Human Resource Management*: “Chapter 10: Managing
     Employee Performance”**
     Link: *Human Resource Management*: [“Chapter 10: Managing Employee
-    Performance”](http://www.saylor.org/site/textbooks/Human%20Resource%20Management.pdf) (PDF)  
+    Performance”](https://resources.saylor.org/archived/textbooks/Human%20Resource%20Management.pdf) (PDF)  
         
      Instructions: Read the chapter introduction, as well as Sections
     10.1-10.3 and  Attempt the exercises at the end of each section. 
@@ -122,13 +122,13 @@ communication performance results back to an employee.*
 
 -   **Activity: The Saylor Foundation's "Unit 4 Activity"**
     Link: The Saylor Foundation's ["Unit 4
-    Activity"](http://www.saylor.org/site/wp-content/uploads/2012/06/PRDV401-HR101-Units-1-10-Activities.pdf) (PDF)  
+    Activity"](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PRDV401-HR101-Units-1-10-Activities.pdf) (PDF)  
       
      Instructions: Please click on the link above, and follow the
     instructions provided to complete the activity for Unit 4.  After
     you have completed the activity, check your answer against the
     Saylor Foundation's ["Solutions to Activities for Units
-    1-10."](http://www.saylor.org/site/wp-content/uploads/2012/06/PRDV401-HR101-Units-1-10-Activities-Answer-Key.pdf) (PDF)  
+    1-10."](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PRDV401-HR101-Units-1-10-Activities-Answer-Key.pdf) (PDF)  
         
      This resource should take approximately 30 minutes to complete.  
       
