@@ -34,7 +34,7 @@ id="3.1"></span> 
 -   **Reading: *Human Resource Management*: “Chapter 7: Retention and
     Motivation”**
     Link: *Human Resource Management*: [“Chapter 7: Retention and
-    Motivation”](https://resources.saylor.org/archived/textbooks/Human%20Resource%20Management.pdf) (PDF)  
+    Motivation”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Human%20Resource%20Management.pdf) (PDF)  
         
      Instructions: Read the chapter introduction, as well as Sections
     7.1 through 7.4.  Read these entire sections to cover the whole
@@ -70,7 +70,7 @@ an employee and starting the recruiting process again in Section 7.4.*
 **3.2 Selection** <span id="3.2"></span> 
 -   **Reading: *Human Resource Management*: “Chapter 5: Selection”**
     Link: *Human Resource Management*: [“Chapter 5:
-    Selection”](https://resources.saylor.org/archived/textbooks/Human%20Resource%20Management.pdf) (PDF)  
+    Selection”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Human%20Resource%20Management.pdf) (PDF)  
         
      Instructions: Read the chapter introduction, as well as Sections
     5.1 through 5.5.  Chapter 5 will cover selection planning and
@@ -116,13 +116,13 @@ Section 5.3.*
 
 -   **Activity: The Saylor Foundation's "Unit 3 Activity"**
     Link: The Saylor Foundation's ["Unit 3
-    Activity"](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PRDV401-HR101-Units-1-10-Activities.pdf) (PDF)  
+    Activity"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/PRDV401-HR101-Units-1-10-Activities.pdf) (PDF)  
       
      Instructions: Please click on the link above, and follow the
     instructions provided to complete the activity for Unit 3.  After
     you have completed the activity, check your answer against the
     Saylor Foundation's ["Solutions to Activities for Units
-    1-10."](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PRDV401-HR101-Units-1-10-Activities-Answer-Key.pdf) (PDF)  
+    1-10."](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/PRDV401-HR101-Units-1-10-Activities-Answer-Key.pdf) (PDF)  
         
      This resource should take approximately 30 minutes to complete.  
       
