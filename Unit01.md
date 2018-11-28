@@ -95,13 +95,13 @@ id="1.2"></span> 
 
 -   **Activity: The Saylor Foundation's "Unit 1 Activity"**
     Link: The Saylor Foundation's ["Unit 1
-    Activity"](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PRDV401-HR101-Units-1-10-Activities.pdf) (PDF)  
+    Activity"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/PRDV401-HR101-Units-1-10-Activities.pdf) (PDF)  
       
      Instructions: Please click on the link above, and follow the
     instructions provided to complete the activity for Unit 1.  After
     you have completed the activity, check your answer against the
     Saylor Foundation's ["Solutions to Activities for Units
-    1-10."](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PRDV401-HR101-Units-1-10-Activities-Answer-Key.pdf) (PDF)  
+    1-10."](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/PRDV401-HR101-Units-1-10-Activities-Answer-Key.pdf) (PDF)  
         
      This resource should take approximately 45 minutes to complete.  
       

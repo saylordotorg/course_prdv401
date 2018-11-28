@@ -39,7 +39,7 @@ id="5.1"></span> 
 -   **Reading: *The Business Ethics Workshop*: “Chapter 1: What Is
     Business Ethics?”**
     Link: *The Business Ethics Workshop*: [“Chapter 1: What Is Business
-    Ethics?”](https://resources.saylor.org/archived/textbooks/The%20Business%20Ethics%20Workshop.pdf) (PDF)  
+    Ethics?”](https://resources.saylor.org/wwwresources/archived/site/textbooks/The%20Business%20Ethics%20Workshop.pdf) (PDF)  
         
      Instructions: Please click on the link above to view Chapter 1 of
     the textbook.  Read the introduction, as well as Sections 1.1
@@ -85,7 +85,7 @@ implement the company’s code of ethics.*
     Responsible Office: Corporations and Social Responsibility”**
     Link: T*he Business Ethics Workshop*: [“Chapter 13: The Responsible
     Office: Corporations and Social
-    Responsibility”](https://resources.saylor.org/archived/textbooks/The%20Business%20Ethics%20Workshop.pdf) (PDF)  
+    Responsibility”](https://resources.saylor.org/wwwresources/archived/site/textbooks/The%20Business%20Ethics%20Workshop.pdf) (PDF)  
         
      Instructions:  Read this chapter.  Chapter 13 will define corporate
     responsibility and discuss why and even if a corporation should have
@@ -115,13 +115,13 @@ text below “The Enlightened Self-interest Argument” heading.*
 
 -   **Activity: The Saylor Foundation's "Unit 5 Activity"**
     Link: The Saylor Foundation's ["Unit 5
-    Activity"](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PRDV401-HR101-Units-1-10-Activities.pdf) (PDF)  
+    Activity"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/PRDV401-HR101-Units-1-10-Activities.pdf) (PDF)  
       
      Instructions: Please click on the link above, and follow the
     instructions provided to complete the activity for Unit 5.  After
     you have completed the activity, check your answer against the
     Saylor Foundation's ["Solutions to Activities for Units
-    1-10."](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PRDV401-HR101-Units-1-10-Activities-Answer-Key.pdf) (PDF)  
+    1-10."](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/PRDV401-HR101-Units-1-10-Activities-Answer-Key.pdf) (PDF)  
         
      This resource should take approximately 30 minutes to complete.  
       
